@@ -1,0 +1,22 @@
+.nav {
+  margin: 0 auto;
+  border: 1px solid #CCC;
+  border-radius: 5px;
+}
+
+.nav-items {
+  list-style: none;
+  display: table;
+}
+
+.nav-items li {
+  display: table-cell;
+}
+
+.nav-items li a {
+  color: #000;
+  text-decoration: none;
+}
+.nav-items li a:hover {
+  background-color: #CCC;
+}
